@@ -1,7 +1,6 @@
 name: Tpa
 version: ${project.version}
 main: com.metox.tpa.TpaPlugin
-website: https://discord.gg/forges
 api-version: 1.13
 author: chizzar-dev
 description: Isinlanma istekleri, bekleme suresi ve ekranda geri sayim. Coslant.
